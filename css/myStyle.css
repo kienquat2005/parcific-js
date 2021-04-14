@@ -1,0 +1,19 @@
+#frmDatPhong {
+    display: none;
+    border: solid 1px grey;;
+}
+
+.imgCheckout img {
+  width: 100%!important;
+  height: 165px;
+  padding: 10px;
+  border: solid 1px grey;
+  margin: 10px;
+}
+.title {
+  text-transform: uppercase;
+  font-weight:500;
+}
+.divDrop1 {
+  display: none!important;
+}
